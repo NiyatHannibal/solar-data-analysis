@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:/Users/niyat/PycharmProjects/Week0_Task1/env",
+    "python.linting.pylintArgs": ["--disable=R", "--disable=W"]
+}
